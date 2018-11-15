@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
+* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax](./VB/Global.asax))
+* [MyBinder.cs](./CS/Models/MyBinder.cs) (VB: [MyBinder.vb](./VB/Models/MyBinder.vb))
+* [MyModel.cs](./CS/Models/MyModel.cs) (VB: [MyModel.vb](./VB/Models/MyModel.vb))
+* [Index.aspx](./CS/Views/Home/Index.aspx) (VB: [Index.aspx](./VB/Views/Home/Index.aspx))
+* [Error.aspx](./CS/Views/Shared/Error.aspx) (VB: [Error.aspx](./VB/Views/Shared/Error.aspx))
+<!-- default file list end -->
 # How to bind RadioButtonList to an enumerable property of Model
 
 
