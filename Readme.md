@@ -3,7 +3,7 @@
 
 * [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
 * [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
-* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax](./VB/Global.asax))
+* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax.vb](./VB/Global.asax.vb))
 * [MyBinder.cs](./CS/Models/MyBinder.cs) (VB: [MyBinder.vb](./VB/Models/MyBinder.vb))
 * [MyModel.cs](./CS/Models/MyModel.cs) (VB: [MyModel.vb](./VB/Models/MyModel.vb))
 * [Index.aspx](./CS/Views/Home/Index.aspx) (VB: [Index.aspx](./VB/Views/Home/Index.aspx))
