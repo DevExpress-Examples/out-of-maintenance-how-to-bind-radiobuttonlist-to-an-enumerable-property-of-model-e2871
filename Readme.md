@@ -10,6 +10,9 @@
 * [Error.aspx](./CS/Views/Shared/Error.aspx) (VB: [Error.aspx](./VB/Views/Shared/Error.aspx))
 <!-- default file list end -->
 # How to bind RadioButtonList to an enumerable property of Model
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2871/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to bind the RadioButtonList extension to an enumerable property of Model using custom model binder inherited from the <strong>DevExpressEditorsBinder</strong> class.</p>
